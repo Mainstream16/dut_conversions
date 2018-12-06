@@ -1,4 +1,7 @@
 CONVERSIONS
-Rands to Cents
-Km to m
-Liter to ml
+-Rands to Cents
+	Multiply by 60
+-Km to m
+	Multiply by 1000
+-Liter to ml
+	Multiply by 1000
